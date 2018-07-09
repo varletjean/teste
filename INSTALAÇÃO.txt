@@ -1,0 +1,40 @@
+
+-----------------------------------------------------------------------
+para instalar 
+
+Criar banco de dados no mysql
+
+Carregar os arquivos na hospedagem 
+
+Acessar o endereço do sistema e fazer a auto instalação
+-----------------------------------------------------------------------
+
+
+
+Compartilhar arquivos 
+Com seus clientes
+
+Sistema de projetos é um aplicativo você pode instalá-lo facilmente em sua conta de hospedagem que lhe permite carregar arquivos e atribuí-los a clientes específicos que você mesmo cria! Seguro, privado e fácil. Não mais dependendo de serviços externos ou e-mail para enviar esses arquivos!
+
+Sistema de projetos é feito em php e usa um banco de dados MySQL para armazenar as informações.
+
+MANTENHA SEUS ARQUIVOS CONFIDENCIAIS SEGUROS
+
+Não se preocupe, seus arquivos são seguros no Sistema de projetos
+
+COMPARTILHAR COM CLIENTES OU GRUPOS
+
+Quando você faz upload de seus arquivos, você está dando a opção de atribuí-los a um cliente, ou vários, ou um grupo que você criar especialmente para trabalhar com. Sistema de projetos serve todas as suas necessidades de compartilhamento de arquivos!
+
+SEUS CLIENTES TAMBÉM PODEM FAZER O UPLOAD
+
+Sistema de projetos não é uma rua de mão única. Seus clientes também podem carregar arquivos para sua própria conta. Agora você pode ter uma nova maneira de receber feedback sem aguardar anexos em seus e-mails.
+
+REGISTRO DETALHADO DE AÇÕES
+
+Com Sistema de Projetos você nunca vai perder nada . Um painel detalhado de tudo o que acontece em seu sistema estará disponível para os administradores. Por exemplo, veja quem carrega, baixa ou edita arquivos. Obtenha no controle!
+
+ALÉM DISSO...
+
+Estatísticas, contas de usuários e clientes inativos, modelos, idiomas.
+
